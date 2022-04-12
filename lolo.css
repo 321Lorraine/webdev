@@ -1,0 +1,31 @@
+#A{
+    /*background: aqua;
+    list-style-type: upper-roman;
+    padding: 20px;*/    
+}
+
+ol {
+    background: #ff9999;
+    padding: 20px;
+  }
+
+#B li{
+    list-style-type: lower-roman;
+    background: rgb(236, 120, 10);    
+}
+
+#C{
+    list-style-type: circle;
+    background: gold;
+    padding: 20px;
+}
+
+#C li {
+    background: #cce5ff;
+    color: darkblue;
+    margin: 5px;
+}
+
+.D{
+    list-style-type: square;
+}

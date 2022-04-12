@@ -1,0 +1,30 @@
+th, td {
+    border: 1px solid #333;
+    }
+
+    table{
+        border: 1px dashed brown;
+        /*width: 100%;*/
+        }
+    
+tbody tr:nth-child(odd) {
+            background-color: #af47ff;
+            }
+
+tbody tr:nth-child(even) {
+                background-color: #0cee32;
+            }
+
+table {
+    border-collapse: collapse;
+}
+
+
+p.dog-name {
+color: rgb(243, 169, 8);
+}
+
+
+p#dog-name {
+color: rgb(233, 15, 7);
+}

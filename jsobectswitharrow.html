@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        
+  <p id="demo"></p> 
+
+<script>
+    /* //Create an object:
+    const person = {firstName:"John", lastName:"Doe", age:50, eyeColor:"blue"};
+    
+    // Display some data from the object:
+    document.getElementById("demo").innerHTML =
+    person.lastName + " has " + person.eyeColor + " eyes.";*/
+
+
+    const person = {
+  monthlySalary: 2000,
+  tax: 0.25,
+  pension :() => {
+  return this.monthlySalary * this.tax;
+  }
+};
+
+document.getElementById("demo").innerHTML = person.pension();
+    </script>
+
+</body>
+</html>

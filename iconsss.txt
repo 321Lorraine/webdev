@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<head>
+    <title>My Page</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+</head>
+
+<body>
+    <h1> Hello world</h1>
+    <a href="https://instagram.com">
+    <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Instagram_colored_svg_1-1024.png" height="60px">
+    </a>
+    <a href="https://facebook.com">
+    <img src="https://cdn1.iconfinder.com/data/icons/social-media-2285/512/Colored
+Web dev course

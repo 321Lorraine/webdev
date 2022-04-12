@@ -1,0 +1,6 @@
+<link rel="stylesheet" media="mediatype and|not|only (expressions)" href="print.css">
+all	Used for all media type devices
+print	Used for printers
+screen	Used for computer screens, tablets, smart-phones etc.
+
+speech	Used for screenreaders that "reads" the page out loud
