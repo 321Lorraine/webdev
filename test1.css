@@ -1,0 +1,70 @@
+/*.izwi{
+
+    color: hotpink;
+}*/
+
+#chicken{
+    color: orange;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.Buy{
+    background-image: url('https://www.tasteofhome.com/wp-content/uploads/2019/02/So-Easy-Sticky-Chicken-Wings_EXPS_TOHESCODR20_187619_E02_11_3b-12.jpg?fit=700,1024');
+}
+
+.Maple{
+    background-image: url('https://www.tasteofhome.com/wp-content/uploads/2018/01/Cranberry-Maple-Chicken_EXPS_SDDJ19_32962_C07_13_6b-9.jpg?fit=700,1024');
+    float:none;
+}
+
+#list{
+    list-style-type:upper-alpha;
+}
+
+p.dotted{
+    border-style: dotted;
+}
+
+#rock{
+    background-image: url('https://everydaycooks.co.uk/wp-content/uploads/2018/08/Rock-Buns-2-774x1024.jpg');
+}
+
+#lo{
+    color: black;
+}
+
+div{
+    /*border-style: dashed; 
+    color: blue
+    margin-top: 20px;
+    margin-bottom: 100px;
+    margin-right: 200px;
+    margin-left: 20px;
+    background-color: lightblue;*/
+    border: 1px solid black;
+    margin: auto;
+    padding-top: 50px;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-left: 80px;
+}
+
+#lor{
+    border:inherit;
+    /*border-radius:20px;*/
+}
+
+#box{
+    background-color: lightgrey;
+    width: 300px;
+    border: 15px solid green;
+    padding: 70px;
+    margin: 20px;
+    text-align: justify;
+    text-transform:capitalize;
+    color: blue;
+    text-indent: 50px;
+    letter-spacing: 3px;
+    text-decoration: dashed;
+    font-family: 'Times New Roman', Times, serif;
+  }
